@@ -35,8 +35,7 @@ ul > li {
   background: red;
 }
 
-section header .header-button,
-section header span {
+section header .header-button + span {
   background: red;
 }
 
